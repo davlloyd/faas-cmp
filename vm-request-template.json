@@ -1,0 +1,10 @@
+{
+    "_comment": "name mandatory, all the rest optional fields",
+    "name": "", 
+    "template": "", 
+    "dc": "", 
+    "resourcepool": "",
+    "vmfolder": "",
+    "targethost": "",
+    "poweron": false
+}
