@@ -1,0 +1,10 @@
+{
+    "_comment": "A VM",
+    "name": "vm-26", 
+    "template": "ubuntu-1604-template-agent", 
+    "dc": "PKS", 
+    "resourcepool": "Cloud",
+    "vmfolder": "development",
+    "targethost": "sydscvvcloudvc01.syddsc.local",
+    "poweron": true
+}
