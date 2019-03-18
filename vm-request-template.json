@@ -6,5 +6,8 @@
     "resourcepool": "",
     "vmfolder": "",
     "targethost": "",
-    "poweron": false
+    "poweron": false,
+    "cpu": 1,
+    "memory": 1024,
+    "action": "create"
 }

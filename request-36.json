@@ -1,6 +1,6 @@
 {
     "_comment": "A VM",
-    "name": "vm-2", 
+    "name": "vm-36", 
     "template": "ubuntu-1604-template-agent", 
     "dc": "PKS", 
     "resourcepool": "Cloud",

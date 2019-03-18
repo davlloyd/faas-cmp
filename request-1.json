@@ -6,5 +6,8 @@
     "resourcepool": "Cloud",
     "vmfolder": "development",
     "targethost": "sydscvvcloudvc01.syddsc.local",
-    "poweron": true
+    "poweron": true,
+    "cpu": 1,
+    "memory": 1024,
+    "action": "create"
 }
